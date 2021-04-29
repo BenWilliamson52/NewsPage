@@ -1,0 +1,12 @@
+nav#main {
+background-color: lightgray;
+
+}
+nav#main li{
+    display: inline-block;
+    margin-right:20px;
+}
+
+img.full-width-image{
+    width:100%;
+}
